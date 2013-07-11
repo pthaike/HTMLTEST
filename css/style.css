@@ -1,12 +1,17 @@
-header nav ul li{
+.h {
+	padding-left: 103px;
+}
+.h li a {
 	float: left;
 	color: white;
 	padding-top: 12px;
 	padding-right: 20px;
+	text-decoration: none; 
 }
 ul{
 	list-style-type: none;
 	margin: 00px;
+	color: white;
 }
 
 header {
@@ -19,7 +24,7 @@ header {
 .clear {
 	clear: both;
  }
- .s1 {
+ .sd1 {
  	width: auto;
  	height: 230px;
  	background: #05c2be;
@@ -40,4 +45,29 @@ header {
  	padding-left: 479px;
  	padding-right: 20px;
  	margin-top: 11px;
+ }
+ .sd2 {
+ 	height: 236px;
+ 	background: #e3e3e3;
+ }
+ .sdh2 {
+ 	margin-top: 00px;
+ 	margin-bottom: 16px;
+ 	padding-top: 67px;
+ 	font-size: 36px;
+ 	text-align: center;
+ }
+ .sdp2 {
+ 	width: 960px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+ .sd3 {
+ 	background: #097763;
+ 	text-align: center;
+ }
+ .sdi3 {
+ 	width: 960px;
+ 	height: 386px;
+ 	vertical-align: middle;
  }
