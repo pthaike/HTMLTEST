@@ -71,3 +71,48 @@ header {
  	height: 386px;
  	vertical-align: middle;
  }
+ .dh4 {
+ 	text-align: center;
+ 	font-size: 45px;
+ 	margin-bottom: 9px;
+ }
+ .sdd4 {
+ 	width: 960px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background: #e3e3e3;
+ }
+ .sdd4 div{
+ 	float: left;
+ }
+ .sddi41 {
+ 	height: 290px;
+ 	width: 199px;
+ }
+ .sddi42 {
+ 	height: 290px;
+ 	width: 290px;
+ }
+ .sddd4 {
+ 	width: 431px;
+ 	margin-left: 20px;
+ 	margin-right: 20px;
+ }
+ .sddd4 h1 {
+ 	padding-left: auto;
+ }
+ .sddd4 p {
+ 	padding-right: 00px;
+ }
+ .sdda4 {
+ 	padding: 7px;
+ 	background: #05c2be;
+ 	text-decoration: none;
+ }
+ .sd5 h1{
+ 	text-align: center;
+ 	clear: both;
+ 	margin: 00px;
+ 	padding: 13px;
+ 	font-size: 40px;
+ }
