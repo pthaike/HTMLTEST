@@ -1,0 +1,21 @@
+header nav ul li{
+	float: left;
+	color: white;
+	padding-top: 12px;
+}
+ul{
+	list-style-type: none;
+	margin: 00px;
+}
+
+header {
+	height: 40px;
+	background: black;
+}
+body {
+	margin: 00px;
+}
+.bstyle {
+	background: red;
+	
+}
