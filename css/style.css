@@ -140,9 +140,14 @@ header {
  	padding-bottom: 20px;
  	border-top: 2px solid #e3f4e3;
  }
- .f {
+footer {
  	background:#05c2be; 
+ 	padding-top: 52px;
+ 	padding-bottom: 52px;
  }
- /*.f ul {
+footer ul li{
  	float: left;
- }*/
+ }
+ #ftd1 {
+ 	padding-left: 156px;
+ }
