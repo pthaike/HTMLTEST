@@ -76,6 +76,11 @@ header {
  	font-size: 45px;
  	margin-bottom: 9px;
  }
+ .sd4 {
+ 	margin-left: 182px;
+ 	float: left;
+ 	margin-bottom: 20px;
+ }
  .sdd4 {
  	width: 960px;
  	margin-left: auto;
@@ -109,10 +114,35 @@ header {
  	background: #05c2be;
  	text-decoration: none;
  }
+ .sd5 {
+ 	background: #e3e3e3;
+ }
  .sd5 h1{
  	text-align: center;
  	clear: both;
  	margin: 00px;
  	padding: 13px;
  	font-size: 40px;
+ 	background: white;
  }
+ .sd6 {
+ 	background:  #e3e3e3;
+ }
+ .st6 {
+ 	width: 798px;
+ 	text-align: center;
+ }
+ .st6 tr {
+ 	border-top: 1px solid red;
+ }
+ .st6 tr td {
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	border-top: 2px solid #e3f4e3;
+ }
+ .f {
+ 	background:#05c2be; 
+ }
+ /*.f ul {
+ 	float: left;
+ }*/
