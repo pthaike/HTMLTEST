@@ -40,9 +40,9 @@ header {
  .dp1 {
  	font-size: 22px;
  	margin-top: 10px;
+ 	text-align: center;
  }
  #dps11 {
- 	padding-left: 479px;
  	padding-right: 20px;
  	margin-top: 11px;
  }
